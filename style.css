@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@300;400;500;700&display=swap');
+
+body{
+    font-family: 'Mitr', sans-serif;
+}
+
+.title {
+  text-align: center;
+}
+
+.bgwhitealpha {
+    background: rgba(179, 227, 236, 0.6);
+    margin-bottom: 10px;
+    /* border: rgba(255, 255, 255, 1) 2px solid; */
+    border: #80ffdb 2px solid !important;
+}
+
+.bgwhitealpha h4 {
+    text-shadow: 0px 0px 1px #607d8b;
+    font-weight: 400;
+}
+
+.bgwhitealpha .card-header {
+    font-weight: 400;
+    background-color: #72efdd;
+}
+
+.bgwhitealpha .badge{
+    font-weight: 300;
+}
+
+.sub-card-header{
+    background-color: #e3ffe1 !important;
+}
+
+.printAt{
+    text-align: right;
+}
