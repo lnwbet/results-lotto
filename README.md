@@ -1,2 +1,2 @@
-# results-lotto-from-gmlotto
-Show result lotto from gmlotto api.
+# results-lotto
+Show result lotto from api.
